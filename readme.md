@@ -24,7 +24,7 @@ This repository contains hands-on materials for the [IF25-40305](https://mctm.we
 
 ### **📅 Course Schedule:**
 
-> **DEFAULT:** Hari Selasa di [GK1.404b](https://maps.app.goo.gl/XEhjvYyzmiLPRjqdA)
+> **DEFAULT:** Hari Selasa di [GK1.404b](https://maps.app.goo.gl/XEhjvYyzmiLPRjqdA) Jam 13.00 – 15.40
 
 ### Pertemuan 2
 
