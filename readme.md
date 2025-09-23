@@ -8,10 +8,10 @@ This repository contains hands-on materials for the [IF25-40305](https://mctm.we
 
 <h2 align="center"><b>Table of Contents.</b></h2>
 
-| No. | Topic             | Description                   | Notebook                                                                                                                                                                                                                                                              |
-| --- | ----------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Loading Media     | Loading Audio, Image, & Video | [1_loading_media_audio.ipynb](1_loading_media_audio.ipynb) • [2_loading_media_image_vid.ipynb](2_loading_media_image_vid.ipynb) • [3_exercise_loading_media.ipynb](3_exercise_loading_media.ipynb)                                                                    |
-| 2   | Audio Processing  | Audio Signal Fundamentals     | [4_audio_processing_week1.ipynb](4_audio_processing_week1.ipynb) • [5_audio_processing_week2.ipynb](5_audio_processing_week2.ipynb)                                                                                                                                   |
+| No. | Topic             | Description                   | Notebook                                                                                                                                                                                                                                                                        |
+| --- | ----------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Loading Media     | Loading Audio, Image, & Video | [1_loading_media_audio.ipynb](1_loading_media_audio.ipynb) • [2_loading_media_image_vid.ipynb](2_loading_media_image_vid.ipynb) • [3_exercise_loading_media.ipynb](3_exercise_loading_media.ipynb)                                                                              |
+| 2   | Audio Processing  | Audio Signal Fundamentals     | [4_audio_processing_week1.ipynb](4_audio_processing_week1.ipynb) • [5_audio_processing_week2.ipynb](5_audio_processing_week2.ipynb) • [6_audio_processing_week3.ipynb](6_audio_processing_week3.ipynb) • [7_audio_processing_exercise.ipynb](7_audio_processing_exercise.ipynb) |
 
 <h2 align="center"><b>❗ Peraturan Hands-on❗</b></h2>
 
