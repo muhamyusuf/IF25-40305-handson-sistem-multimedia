@@ -12,6 +12,7 @@ This repository contains hands-on materials for the [IF25-40305](https://mctm.we
 | --- | ----------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Loading Media     | Loading Audio, Image, & Video | [1_loading_media_audio.ipynb](1_loading_media_audio.ipynb) • [2_loading_media_image_vid.ipynb](2_loading_media_image_vid.ipynb) • [3_exercise_loading_media.ipynb](3_exercise_loading_media.ipynb)                                                                              |
 | 2   | Audio Processing  | Audio Signal Fundamentals     | [4_audio_processing_week1.ipynb](4_audio_processing_week1.ipynb) • [5_audio_processing_week2.ipynb](5_audio_processing_week2.ipynb) • [6_audio_processing_week3.ipynb](6_audio_processing_week3.ipynb) • [7_audio_processing_exercise.ipynb](7_audio_processing_exercise.ipynb) |
+| 3   | Image Processing  | Image Fundamentals            | [8_image_processing_week1.ipynb](8_image_processing_week1.ipynb)                                                                                                                                                                                                                |
 
 <h2 align="center"><b>❗ Peraturan Hands-on❗</b></h2>
 
@@ -26,11 +27,11 @@ This repository contains hands-on materials for the [IF25-40305](https://mctm.we
 
 > **DEFAULT:** Hari Selasa di [GK1.404b](https://maps.app.goo.gl/XEhjvYyzmiLPRjqdA) Jam 13.00 – 15.40
 
-### Pertemuan 5
+### Pertemuan 6
 
 _Upcoming Meeting_
 
-**Hari/Tanggal:** Selasa, 23 September 2025  
+**Hari/Tanggal:** Selasa, 30 September 2025  
 **Waktu:** 13.00 - 15.40
 **Ruang:** GKU1-404b
 
